@@ -1,0 +1,7 @@
+C:\Users\luliu\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\luliu\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\luliu\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\luliu\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\1.csprojAssemblyReference.cache
+C:\Users\luliu\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\luliu\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\luliu\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
